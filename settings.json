@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "The_Ultimateroyal.aternos.me",
+    "port": 61129,
     "version": "",
     "try-creative": false
   },
@@ -42,12 +42,12 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
       "speed": 3000
-    },
+      "autosleep": true
     "look-around": {
       "enabled": true,
       "interval": 5000
